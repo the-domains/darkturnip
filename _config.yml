@@ -1,0 +1,20 @@
+typography_spectrum: 0.09301868407055736
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.17880134540610015
+  lightness: 0.5593772963620722
+  saturation: 0.5254203595686704
+  rhythmicContrast: 0.22197146760299802
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+github: true
+layout_spectrum: 0.2611813258845359
+name: darkturnip
+title: ''
+content: []
+description: ''
